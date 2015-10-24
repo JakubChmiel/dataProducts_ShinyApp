@@ -1,0 +1,41 @@
+"varNames","factorDescription","coeff"
+"(Intercept)","this not a factor",-0.65506925403366
+"amount","this not a factor",7.96735728846277e-05
+"installment","this not a factor",0.394148474459396
+"duration","this not a factor",0.044925441107686
+"debtors","no debtors",0
+"debtors","co-applicant",0.300389574535227
+"debtors","guarantor",-1.48845554020164
+"status","... < 0 DM",0
+"status","0 <= ... < 200 DM",-0.373519432512824
+"status","... >= 200 DM / salary assignments for at least 1 year",-1.2144443617081
+"status","no checking account",-1.85087003327514
+"other_installment","bank",0
+"other_installment","stores",0.0115427976476812
+"other_installment","none",-0.32694376318634
+"credit_history","no credits taken/ all credits paid back duly",0
+"credit_history","all credits at this bank paid back duly",0.117324968661895
+"credit_history","existing credits paid back duly till now",-0.633820351626367
+"credit_history","delay in paying off in the past",-0.898637878554119
+"credit_history","critical account/ other credits existing (not at this bank)",-1.2435032431398
+"purpose","car (new)",0
+"purpose","car (used)",-1.3444989727578
+"purpose","others",-1.27251170420748
+"purpose","furniture/equipment",-0.479371954356427
+"purpose","radio/television",-0.789726210490257
+"purpose","domestic appliances",-0.109070344149272
+"purpose","repairs",0.817592294705229
+"purpose","education",0.567913816073203
+"purpose","(vacation - does not exist?)",0
+"purpose","retraining",-1.72788506320272
+"purpose","business",-0.645389413540301
+"savings","... < 100 DM",0
+"savings","100 <= ... < 500 DM",-0.262770274991415
+"savings","500 <= ... < 1000 DM",-0.521439335395855
+"savings",".. >= 1000 DM",-1.29634134689634
+"savings","unknown/ no savings account",-1.45923147845562
+"personal_status","male : divorced/separated",0
+"personal_status","female : divorced/separated/married",0.267247757694578
+"personal_status","male : single",-0.483653335187865
+"personal_status","male : married/widowed",-0.0659479172936321
+"personal_status","female : single",0
